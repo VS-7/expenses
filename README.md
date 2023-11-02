@@ -1,3 +1,3 @@
 # expenses
 
-Aplicativo de despesas pessoais
+Aplicativo de despesas pessoais feito em FLutter
